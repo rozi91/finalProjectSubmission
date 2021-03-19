@@ -1,0 +1,27 @@
+@media (max-width: 1000px) {
+    .topnav {
+        width: 50%;
+    }
+    .table {
+        width: 50%;
+    }
+    .comment-column {
+        width: 50%;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 670px) {
+    .topnav {
+        width: 100%;
+    }
+    .table {
+        width: 70%;
+    }
+    .comment-column {
+        width: 70%;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+}
